@@ -73,6 +73,24 @@
           <element id="library" level="project" name="Maven: org.bouncycastle:bctsp-jdk14:1.38" />
           <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk14:1.38" />
           <element id="library" level="project" name="Maven: org.bouncycastle:bcmail-jdk14:1.38" />
+          <element id="library" level="project" name="Maven: org.wildfly.swarm:javafx:2016.10.0" />
+          <element id="library" level="project" name="Maven: org.wildfly.swarm:container:2016.10.0" />
+          <element id="library" level="project" name="Maven: org.wildfly.swarm:spi:2016.10.0" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap:shrinkwrap-api:1.2.6" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap:shrinkwrap-impl-base:1.2.6" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap:shrinkwrap-spi:1.2.6" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-api-jboss:2.0.0-alpha-9" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-api-javaee:2.0.0-alpha-9" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-api-base:2.0.0-alpha-9" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-impl-jboss:2.0.0-alpha-9" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-impl-javaee:2.0.0-alpha-9" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-impl-base:2.0.0-alpha-9" />
+          <element id="library" level="project" name="Maven: org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-spi:2.0.0-alpha-9" />
+          <element id="library" level="project" name="Maven: org.wildfly.swarm:bootstrap:2016.10.0" />
+          <element id="library" level="project" name="Maven: org.wildfly.swarm:config-api-modules:0.4.8" />
+          <element id="library" level="project" name="Maven: org.wildfly.swarm:config-api:0.4.8" />
+          <element id="library" level="project" name="Maven: org.wildfly.swarm:config-api-runtime:0.4.8" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm-all:5.0.4" />
         </element>
       </element>
       <element id="directory" name="META-INF">
